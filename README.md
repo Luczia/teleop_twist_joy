@@ -1,4 +1,5 @@
-teleop_twist_joy [![Build Status](https://travis-ci.org/ros-teleop/teleop_twist_joy.svg?branch=indigo-devel)](https://travis-ci.org/ros-teleop/teleop_twist_joy)
-================
+# teleop_twist_joy
 
-Simple joystick teleop for twist robots. See [ROS Wiki](http://wiki.ros.org/teleop_twist_joy)
+An edited package, from the ROS version of ubiquity robotics which create a cmd_vel signal from a PS3 controller with 
+  - linear_x on left stick
+  - angular_z on right stick
